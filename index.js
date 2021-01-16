@@ -10,9 +10,9 @@ if (randomNumber1 === randomNumber2) {
 }
 else if (randomNumber1 > randomNumber2) {
 	//player 1 wins
-	document.querySelector("h1").innerHTML = "Player 1 Wins!";
+	document.querySelector("h1").innerHTML = "🚩Player 1 Wins!";
 }
 else {
 	//player 2 wins
-	document.querySelector("h1").innerHTML = "Player 2 Wins!";
+	document.querySelector("h1").innerHTML = "Player 2 Wins!🚩";
 }
