@@ -16,3 +16,4 @@ else {
 	//player 2 wins
 	document.querySelector("h1").innerHTML = "Player 2 Wins!🚩";
 }
+//test
